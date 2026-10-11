@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**mao-xin-yi/mao-xin-yi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Xinyi Mao**, an undergraduate student at **Taiyuan University of Technology**, School of Software Engineering.
 
-Here are some ideas to get you started:
+##Education
+- **University:** Taiyuan University of Technology
+- **School:** School of Software Engineering
+- **Degree:** Bachelor's student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Research Interests
+- Computer Vision
+- Deep Learning
+- Text-to-Image Generation
+- Multimodal Large Language Models
+
+##Contact
+- Email: mxy966573@gmail.com
