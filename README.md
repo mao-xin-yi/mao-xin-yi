@@ -2,16 +2,16 @@
 
 I'm **Xinyi Mao**, an undergraduate student at **Taiyuan University of Technology**, School of Software Engineering.
 
-##Education
+# Education
 - **University:** Taiyuan University of Technology
 - **School:** School of Software Engineering
 - **Degree:** Bachelor's student
 
-##Research Interests
+# Research Interests
 - Computer Vision
 - Deep Learning
 - Text-to-Image Generation
 - Multimodal Large Language Models
 
-##Contact
+# Contact
 - Email: mxy966573@gmail.com
